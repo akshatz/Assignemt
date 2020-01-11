@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58583d26-af91-4f82-87a5-9b525359fc98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cart_app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart_app/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart_app/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart_app/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart_app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart_app/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart_app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignment.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/cart_app/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
