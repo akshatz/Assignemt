@@ -1,0 +1,19 @@
+body{
+    margin: 0 auto;
+    background:white;
+}
+
+.items{
+    background: blue;
+    font-size: 11px;
+    style: cursive;
+    color: white;
+}
+.cart-row{
+    color: #ff0;
+}
+
+.panel-body{
+    display: table;
+    margin: 0 auto;
+}
